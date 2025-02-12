@@ -130,7 +130,7 @@ service provides directly.
 No.
 
 *Note:* We have policies in place to limit what users may post regarding
-advertisement. As so far, nobody has posted anything directory for sale yet.
+advertisement. As so far, nobody has posted anything directly for sale yet.
 
 7. Does your service include any of the following functionalities that allow users to find or encounter content? Tick all that apply.
 -------------------------------------------------------------------------------------------------------------------------------------
