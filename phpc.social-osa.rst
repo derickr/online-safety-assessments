@@ -713,7 +713,7 @@ Relevant duties
 	Section 10(3). Section 21(2)(b) Online Safety Act 2023
 
 
-ICS D8: Appropriate action for relevant complaints which are appeals – determination (services that are neither large general nor multi-risk)
+ICU D8: Appropriate action for relevant complaints which are appeals – determination (services that are neither large general nor multi-risk)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Status
