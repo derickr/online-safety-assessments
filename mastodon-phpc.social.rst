@@ -194,7 +194,8 @@ Code of Conduct
 
 No Child Users
 	We have no evidence of children posting or visiting our service in any
-	significant numbers.
+	significant numbers. Our Privacy Policy also explicitly say that the
+	service might not be used for people under the age of 18.
 
 Reporting Features
 	Our software uses industry standard reporting functions which are easily
