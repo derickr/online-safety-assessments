@@ -869,4 +869,37 @@ to date (for example, a written policy): Review should any content be posted
 that might change the above risk assessment. Annual review on 1 April each
 year.
 
+Children's Access Assessment
+============================
 
+[See: https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/quick-guide-to-childrens-access-assessments/]
+
+Stage 1
+~~~~~~~
+
+Is it possible for children to access the service or part of it?
+	Yes
+
+*Note:* the instance is public, and "accessing the service" includes visiting
+the site without logging in or posting. We don't have any age verification
+tools, or limits on the ages of people viewing the forum.
+
+Stage 2
+~~~~~~~
+
+Are there a significant number of children who are users of the service?
+	No
+
+*Note:* We have no evidence of children accessing our service. It is
+impossible to know whether visitors are aged under 18 or not, all we have is
+an IP address.
+
+Is the service of a kind likely to attract a significant number of children?
+	No
+
+*Note:* Topic of our Mastodon instance is the PHP computer
+language, which children could potentially be interested in. However, there
+has not been any evidence of content specifically made for children.
+
+Result
+	No need to carry out a Children's Risk Assessment.
