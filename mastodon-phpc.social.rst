@@ -720,10 +720,10 @@ ICU D8: Appropriate action for relevant complaints which are appeals – determi
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Status
-	Not Implemented
+	Implemented
 
 Date measure takes/took effect
-	N/A, we do not allow appeals to taken down content.
+	2022-04-25
 
 Relevant codes
 	Child sexual exploitation and abuse, Terrorism, Other duties
@@ -736,10 +736,10 @@ ICU D9: Appropriate action for relevant complaints which are appeals – determi
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Status
-	Not Implemented
+	Implemented
 
 Date measure takes/took effect
-	N/A, we do not allow appeals to taken down content.
+	2022-04-25
 
 Relevant codes
 	Child sexual exploitation and abuse, Terrorism, Other duties
@@ -751,10 +751,10 @@ ICU D10: Appropriate action for relevant complaints which are appeals – action
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Status
-	Not Implemented
+	Implemented
 
 Date measure takes/took effect
-	N/A, we do not allow appeals to taken down content.
+	2022-04-25
 
 Relevant codes
 	Child sexual exploitation and abuse, Terrorism, Other duties
