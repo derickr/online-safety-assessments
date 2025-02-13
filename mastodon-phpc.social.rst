@@ -8,6 +8,9 @@ Service name:
 Service type:
 	User-to-user (U2U) service
 
+Status:
+	Draft
+
 Completion date:
 	2025-02-12
 
