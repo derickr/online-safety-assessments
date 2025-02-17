@@ -10,9 +10,10 @@ Handling Illegal Content
 ------------------------
 
 The moderation team takes illegal content extremely seriously. When being made
-aware about this through Mastodon's reporting features, or third party app
-reporting features, or through our contact email address,
-hello@phpcommunity.org, we will immediately take this down.
+aware of the presence of illegal content, through Mastodon's reporting
+features, or third party app reporting features, or through our contact email
+address, hello@phpcommunity.org, we will take this down at the earliest
+opportunity.
 
 The phpc.social Mastodon instance does not use *proactive technology* to
 detect illegal content.
