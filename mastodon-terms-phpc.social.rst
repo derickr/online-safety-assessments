@@ -9,7 +9,7 @@ added the following section into our "about page"
 Handling Illegal Content
 ------------------------
 
-The moderation team takes illegal content extremely seriously. When being made
+The moderation team treats illegal content with the utmost gravity. When made
 aware of the presence of illegal content, through Mastodon's reporting
 features, or third party app reporting features, or through our contact email
 address, hello@phpcommunity.org, we will take this down at the earliest
