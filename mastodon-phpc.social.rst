@@ -817,7 +817,7 @@ Status
 	Implemented
 
 Date measure takes/took effect
-	2018-08-13
+	2025-02-14
 
 Relevant codes
 	Child sexual exploitation and abuse, Terrorism, Other duties
