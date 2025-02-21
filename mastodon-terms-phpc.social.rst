@@ -1,6 +1,6 @@
-=============================================
+===============================================
 Online Safety Act Specific Terms and Conditions
-=============================================
+===============================================
 
 *To implement "ICU G1 Terms of service: substance (all services)" we have
 added the following section into our "about page"
