@@ -20,3 +20,9 @@ Mastodon
   <mastodon-phpc.social.rst>`_
 - `Specific terms and conditions section for the phpc.social mastodon instance
   <mastodon-terms-phpc.social.rst>`_
+
+MantisBT Selfhosted Issue Tracker
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- `Risk assessments for the bugs.xdebug.org MantisBT self-hosted issue tracker
+  <mantisbt-bugs.xdebug.org.rst>`_
